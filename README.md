@@ -2,12 +2,12 @@
 ## Hi there my name is kiw.👋
  I'm a software developer  That like development Mobile app  and  Arduino Raspberry pi Robot  And technologies many more.
  Some technologies  I like is 
- * Java [Android]
- * Kotlin [Android]
- * Flutter [Android,Ios]
- * React Native [Android,Ios]
+ * Java
+ * Kotlin
+ * Flutter
+ * React Native
  * Node.js
- * c++[Arduino]
+ * c++
  * Python
 #
 - 🔭 I’m currently working on Kotlin,Flutter,React-Native Android/ios App Developement
